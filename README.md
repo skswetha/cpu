@@ -1,5 +1,1 @@
-# CS61CPU
-
-Look ma, I made a CPU! Here's what I did:
-
--
+https://cs61c.org/su24/projects/proj3/
